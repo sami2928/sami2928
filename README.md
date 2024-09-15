@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sami2928/Portfolio.git](https://github.com/sami2928/Portfolio.git)
+- 👨‍💻 All of my projects are available at [https://portfolio-qcf0ycdz8-sami-ul-haqs-projects-b137c1eb.vercel.app](https://portfolio-qcf0ycdz8-sami-ul-haqs-projects-b137c1eb.vercel.app)
 
 - 💬 Ask me about **Android, MERN, Springboot**
 
